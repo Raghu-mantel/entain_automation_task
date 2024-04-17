@@ -1,0 +1,159 @@
+{
+  "category_race_map": {
+    "161d9be2-e909-4326-8c2c-35ed71fb460b": {
+      "race_ids": [
+        "520de35c-65d8-482f-ab68-96a24f5b3a71",
+        "0fb2b3b5-eedb-4500-b664-fd51ce5e9c38",
+        "7ca3634f-728e-4cb1-b77c-936e764910b4",
+        "e2248aaf-29d1-4e0d-839c-34b628bad837",
+        "8e7e1aa2-ca63-4146-9687-316f29d69b76"
+      ]
+    },
+    "4a2788f8-e825-4d36-9894-efd4baf1cfae": {
+      "race_ids": [
+        "c3a4df4a-39c1-4b3b-925f-bbfb8d6d028e",
+        "116072c3-75a7-4713-b053-5aa43e892ace",
+        "af11fde8-da68-426e-b299-31d523c25cd0",
+        "04c7b5fe-a3a0-4cf3-b789-a06742b34d9e",
+        "efc31428-c16b-439f-b126-bb196abec9a1"
+      ]
+    },
+    "9daef0d7-bf3c-4f50-921d-8e818c60fe61": {
+      "race_ids": [
+        "c8bd3b4f-0c09-4d85-9dec-b92fba5defdc",
+        "4ad7e85a-796b-4d82-83e9-b0b15c55d909",
+        "08f98b63-2b63-45eb-a518-bc98e84cd504",
+        "d9716f17-5456-4b54-a517-80e669411b00",
+        "b32089b3-9892-4463-b2f6-ea1e0ecb1b8f"
+      ]
+    }
+  },
+  "race_summaries": {
+    "04c7b5fe-a3a0-4cf3-b789-a06742b34d9e": {
+      "race_id": "04c7b5fe-a3a0-4cf3-b789-a06742b34d9e",
+      "race_name": "Stow Storage Solutions (Bm64)",
+      "race_number": 7,
+      "meeting_id": "f3ffff78-956f-4bd5-a3ea-984466150f28",
+      "meeting_name": "Caulfield Heath",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2024-04-17T07:17:05Z",
+      "race_form": {
+        "distance": 1600,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good4",
+          "short_name": "good4"
+        },
+        "weather": {
+          "name": "OCAST"
+        },
+        "race_comment": "THE CREATOR (3) has always promised a bit and showed he may be ready to deliver on it with a comfortable win second-up, winning by 2.3 lengths at Pakenham over 1600m. Bit more depth here but he should roll forward and take catching again. AZTEC STATE (6) was just fair first up in a 3yo Bm70 at Sandown-Lakeside but is better suited to this trip and showed plenty of promise last time in. Looks a strong chance. HEAVENLY EAGLE (8) won well last start at Yarra Valley and can improve again fitness-wise. Can figure at odds. GWAN SO (1) is going well and will find this a touch easier than recent runs. HIGH FIVE (10) won easily first up and can figure.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Caulfield Heath\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"Stow Storage Solutions (Bm64)\",\"time\":\"2024-04-17T06:30:00Z\",\"class\":\"BM64\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":50000},\"rail_position\":\"True Entire Circuit.\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\"}}"
+      },
+      "venue_id": "b2bc306c-b31e-4f36-a3bf-dbb29102a3a5",
+      "venue_name": "Caulfield Heath",
+      "venue_state": "VIC",
+      "venue_country": "AUS",
+      "video": {
+        "channel": {
+          "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+        }
+      }
+    },
+    "08f98b63-2b63-45eb-a518-bc98e84cd504": {
+      "race_id": "08f98b63-2b63-45eb-a518-bc98e84cd504",
+      "race_name": "Peter \"Ace\" Mcdonald Memorial 1-4 Win Ht 6 1-4 Win",
+      "race_number": 6,
+      "meeting_id": "9b6e0364-dc7a-43d7-8916-5b7baad4c369",
+      "meeting_name": "Temora",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": "2024-04-17T07:19:20Z",
+      "race_form": {
+        "distance": 330,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "SOPHIE'S DESIRE (6) boasts a strong record this journey with two wins and two minors from six tries. Was out of placings last time (19.51) at this track in a Grade 5, finishing seventh and beaten 7 lengths. Expected to go close. WESTSIDE BULLET (4) scored (23.20) last time out at Wagga adding to an already respectable career. Has a good record here including three wins. Boasts a lightning course and distance PB of 18.58. Has definite claims. GOING SOLO (2) has been mixing form lately, hitting the frame two back before finishing fifth (30.26) at Dubbo in a Grade 5. Can turn it around this time. IT'S PARTY TIME (1) cannot be written off despite a miss here at her latest outing.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Temora\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"Peter \\\"Ace\\\" Mcdonald Memorial 1-4 Win Ht 6 1-4 Win\",\"time\":\"2024-04-17T06:35:00Z\",\"class\":\"5th Grade\",\"start_type\":\"\",\"prizemonies\":{\"1st\":1500,\"2nd\":460,\"3rd\":350,\"4th\":100,\"total_value\":2410},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}"
+      },
+      "venue_id": "3aa6e464-eaec-4651-aed4-e78982e66a18",
+      "venue_name": "Temora",
+      "venue_state": "NSW",
+      "venue_country": "AUS",
+      "video": {
+        "channel": {
+          "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+        }
+      }
+    },
+    "0fb2b3b5-eedb-4500-b664-fd51ce5e9c38": {
+      "race_id": "0fb2b3b5-eedb-4500-b664-fd51ce5e9c38",
+      "race_name": "Matthews Petroleum Pace",
+      "race_number": 8,
+      "meeting_id": "61abe9c7-fb74-4ff6-b0a7-7b5aaf7122a5",
+      "meeting_name": "Hamilton",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": "2024-04-17T07:19:20Z",
+      "race_form": {
+        "distance": 1660,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "DIDAFULL ONEEIGHTY (5) resumes from a spell of four months after closing off last campaign in good form, placing in her last start at Melton to follow back-to-back wins. Has upside and could prove hard to beat on her return. CITY ROCKSTAR (7) has been very consistent of late, continuing a string of wins and placings when she scored at her latest appearance at Geelong, getting home by a neck. Going well and is capable of testing her rivals. HEAVENLY BRIGADE (2) didn't do a bad job when fourth at Melton last time out and draws to advantage. AMORE ROCK (3) has a win and a placing from two attempts here and should not have any excuses from the favourable draw.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Hamilton\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":8,\"race_name\":\"Matthews Petroleum Pace\",\"time\":\"2024-04-17T07:23:00Z\",\"class\":\"NR 56 to 65\",\"start_type\":\"Mobile\",\"prizemonies\":{\"1st\":4560,\"2nd\":1200,\"3rd\":800,\"4th\":400,\"5th\":240,\"total_value\":8000},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}"
+      },
+      "venue_id": "34d63fab-9e2a-4f94-b08b-3340c8e285c4",
+      "venue_name": "Hamilton",
+      "venue_state": "VIC",
+      "venue_country": "AUS"
+    },
+    "116072c3-75a7-4713-b053-5aa43e892ace": {
+      "race_id": "116072c3-75a7-4713-b053-5aa43e892ace",
+      "race_name": "Tabtouch Mdn",
+      "race_number": 2,
+      "meeting_id": "68789e4d-387d-42e4-88f3-d435baf4d521",
+      "meeting_name": "Geraldton",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2024-04-17T07:20:36Z",
+      "race_form": {
+        "distance": 1600,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good4",
+          "short_name": "good4"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "SCENERY (2) put in a big run for second fresh up at Belmont earlier in the year and has not been too bad in 3 subsequent efforts without all the luck in the world. He will find things easier in the country and will relish the step up to a mile. This is the right race for him and he is overdue for his first victory. MYSTERY BULLET (6) is a stablemate of the top pick who has resumed with a couple of tough runs for fourth to open this campaign on both of the Pinjarra courses. He will appreciate the extra furlong and will also be spot-on with his fitness third up. Hard to beat from a handy gate. LE GRAND JEU (3) ran his best race this prep when resuming for second at York. He is back at that level here and can bounce back into the money. Each-way value. STRUCK BY LUCK (5) has the blinkers on last start and ran the race of an improver when finishing runner-up here 10 days ago. He is drawn to lead early on and could take them all of the way this time.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Geraldton\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"Tabtouch Mdn\",\"time\":\"2024-04-17T06:24:00Z\",\"class\":\"MDN SW\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":20000},\"rail_position\":\"Out 2m Entire.\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\"}}"
+      },
+      "venue_id": "82b1deda-916d-42a3-b737-1441b5d99be3",
+      "venue_name": "Geraldton",
+      "venue_state": "WA",
+      "venue_country": "AUS"
+    }
+  }
+}
